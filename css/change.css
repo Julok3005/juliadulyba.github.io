@@ -1,0 +1,56 @@
+a { color: sandybrown;
+}
+a: hover {
+   color: burlywood;
+    text-decoration: none;
+}
+
+body {
+    background-color: beige;
+    color: brown;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    color: brown;
+}
+h2 {
+    color: brown;
+}
+h3 {
+    color: black;
+    
+}
+
+h4 { color: black;
+    text-align: center;
+}
+
+
+hr {
+    color: brown;
+}
+
+p {
+    color: black;
+    
+}
+
+h5 {color: black;
+text-align: center;
+}
+li {
+    color: black;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    text-align: left;
+    font-family: sans-serif;
+}
+
+footer {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
